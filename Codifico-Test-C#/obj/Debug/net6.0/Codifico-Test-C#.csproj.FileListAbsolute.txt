@@ -1,0 +1,15 @@
+C:\Users\Development\c#\Codifico\Interviews-Test\New folder\Codifico-Test-C#\Codifico-Test-C#\bin\Debug\net6.0\Codifico-Test-C#.exe
+C:\Users\Development\c#\Codifico\Interviews-Test\New folder\Codifico-Test-C#\Codifico-Test-C#\bin\Debug\net6.0\Codifico-Test-C#.deps.json
+C:\Users\Development\c#\Codifico\Interviews-Test\New folder\Codifico-Test-C#\Codifico-Test-C#\bin\Debug\net6.0\Codifico-Test-C#.runtimeconfig.json
+C:\Users\Development\c#\Codifico\Interviews-Test\New folder\Codifico-Test-C#\Codifico-Test-C#\bin\Debug\net6.0\Codifico-Test-C#.dll
+C:\Users\Development\c#\Codifico\Interviews-Test\New folder\Codifico-Test-C#\Codifico-Test-C#\bin\Debug\net6.0\Codifico-Test-C#.pdb
+C:\Users\Development\c#\Codifico\Interviews-Test\New folder\Codifico-Test-C#\Codifico-Test-C#\obj\Debug\net6.0\Codifico-Test-C#.csproj.AssemblyReference.cache
+C:\Users\Development\c#\Codifico\Interviews-Test\New folder\Codifico-Test-C#\Codifico-Test-C#\obj\Debug\net6.0\Codifico-Test-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Development\c#\Codifico\Interviews-Test\New folder\Codifico-Test-C#\Codifico-Test-C#\obj\Debug\net6.0\Codifico-Test-C#.AssemblyInfoInputs.cache
+C:\Users\Development\c#\Codifico\Interviews-Test\New folder\Codifico-Test-C#\Codifico-Test-C#\obj\Debug\net6.0\Codifico-Test-C#.AssemblyInfo.cs
+C:\Users\Development\c#\Codifico\Interviews-Test\New folder\Codifico-Test-C#\Codifico-Test-C#\obj\Debug\net6.0\Codifico-Test-C#.csproj.CoreCompileInputs.cache
+C:\Users\Development\c#\Codifico\Interviews-Test\New folder\Codifico-Test-C#\Codifico-Test-C#\obj\Debug\net6.0\Codifico-Test-C#.dll
+C:\Users\Development\c#\Codifico\Interviews-Test\New folder\Codifico-Test-C#\Codifico-Test-C#\obj\Debug\net6.0\refint\Codifico-Test-C#.dll
+C:\Users\Development\c#\Codifico\Interviews-Test\New folder\Codifico-Test-C#\Codifico-Test-C#\obj\Debug\net6.0\Codifico-Test-C#.pdb
+C:\Users\Development\c#\Codifico\Interviews-Test\New folder\Codifico-Test-C#\Codifico-Test-C#\obj\Debug\net6.0\Codifico-Test-C#.genruntimeconfig.cache
+C:\Users\Development\c#\Codifico\Interviews-Test\New folder\Codifico-Test-C#\Codifico-Test-C#\obj\Debug\net6.0\ref\Codifico-Test-C#.dll
